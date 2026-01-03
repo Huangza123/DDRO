@@ -1,3 +1,3 @@
-For KEEL test, we have provided code and data for CONTRACEPTIVE and DERMATOLOGY datasets for testing.
+KEEL test for DDRO.
 
-More KEEL datasets can be download at: https://sci2s.ugr.es/keel/datasets.php
+run train_xxx.py 
